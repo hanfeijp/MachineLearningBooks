@@ -1,7 +1,7 @@
 # MachineLearningBooks
 
-## Pattern Classification
+### Pattern Classification
 
-## Pattern Recognition & Machine Learning by Bishop
+### Pattern Recognition & Machine Learning by Bishop
 
-## Data Mining Methods and Models
+### Data Mining Methods and Models
